@@ -1,4 +1,4 @@
-public class sh1-1 {
+public class sh1_1 {
   public static void main(String[] args) {
     System.out.println(sumSquares(1, 5));
   }
